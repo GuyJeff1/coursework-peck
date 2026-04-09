@@ -1,0 +1,4 @@
+Hello my friends
+For the concatenated data consult the Combinacionales file. To clean this data up I had to isolate the important variables from the vast ocean of data files in the well logging data given to us
+ALso much of the data in each file is not usable so I had to extract the data that was necessary with skip line and such.
+I also had to add some NaN's which were important so the graphs wouldn't break when I made them.
